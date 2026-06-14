@@ -1,0 +1,5 @@
+segment,n_customers,avg_clv,avg_recency,avg_frequency,avg_monetary,total_revenue,revenue_share_%,marketing_action
+At-Risk,331,65497.77,64.85,3.35,159198.08,52694563.84,32.8,Win-back email with 15% discount; survey for pain-points.
+Champions,110,295440.02,35.21,6.11,431462.53,47460878.18,29.5,Reward with loyalty points; upsell premium products; request reviews.
+Lost / Dormant,183,18983.85,227.79,1.79,91653.85,16772654.81,10.4,Aggressive re-engagement campaign; last-chance offer before removal.
+Loyal Customers,147,107368.16,98.37,2.93,297692.58,43760809.98,27.2,Offer membership perks; cross-sell complementary categories.
