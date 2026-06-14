@@ -1,0 +1,1452 @@
+product_key,product_name,product_category,product_subcategory
+1,Skincare Item 33,Beauty,Skincare
+2,Footwear Item 39,Clothing,Footwear
+3,Cameras Item 18,Electronics,Cameras
+4,Skincare Item 50,Beauty,Skincare
+5,Football Item 38,Sports,Football
+6,Smartphones Item 8,Electronics,Smartphones
+7,Headphones Item 50,Electronics,Headphones
+8,Furniture Item 17,Home & Kitchen,Furniture
+9,Appliances Item 15,Home & Kitchen,Appliances
+10,Accessories Item 47,Clothing,Accessories
+11,Women's Wear Item 35,Clothing,Women's Wear
+12,Laptops Item 13,Electronics,Laptops
+13,Smartphones Item 37,Electronics,Smartphones
+14,Decor Item 7,Home & Kitchen,Decor
+15,Decor Item 9,Home & Kitchen,Decor
+16,Kids Item 9,Clothing,Kids
+17,Smartphones Item 3,Electronics,Smartphones
+18,Self-Help Item 18,Books,Self-Help
+19,Decor Item 22,Home & Kitchen,Decor
+20,Academic Item 48,Books,Academic
+21,Cookware Item 37,Home & Kitchen,Cookware
+22,Cycling Item 40,Sports,Cycling
+23,Smartphones Item 49,Electronics,Smartphones
+24,Cricket Item 36,Sports,Cricket
+25,Makeup Item 45,Beauty,Makeup
+26,Laptops Item 27,Electronics,Laptops
+27,Appliances Item 17,Home & Kitchen,Appliances
+28,Appliances Item 16,Home & Kitchen,Appliances
+29,Cricket Item 20,Sports,Cricket
+30,Haircare Item 1,Beauty,Haircare
+31,Haircare Item 6,Beauty,Haircare
+32,Cookware Item 47,Home & Kitchen,Cookware
+33,Comics Item 23,Books,Comics
+34,Cookware Item 19,Home & Kitchen,Cookware
+35,Smartphones Item 17,Electronics,Smartphones
+36,Laptops Item 29,Electronics,Laptops
+37,Laptops Item 46,Electronics,Laptops
+38,Cricket Item 19,Sports,Cricket
+39,Cycling Item 2,Sports,Cycling
+40,Academic Item 43,Books,Academic
+41,Fitness Item 29,Sports,Fitness
+42,Haircare Item 19,Beauty,Haircare
+43,Footwear Item 20,Clothing,Footwear
+44,Swimming Item 43,Sports,Swimming
+45,Cookware Item 26,Home & Kitchen,Cookware
+46,Fragrances Item 7,Beauty,Fragrances
+47,Decor Item 38,Home & Kitchen,Decor
+48,Academic Item 31,Books,Academic
+49,Cookware Item 15,Home & Kitchen,Cookware
+50,Haircare Item 9,Beauty,Haircare
+51,Academic Item 26,Books,Academic
+52,Bedding Item 30,Home & Kitchen,Bedding
+53,Appliances Item 27,Home & Kitchen,Appliances
+54,Footwear Item 30,Clothing,Footwear
+55,Women's Wear Item 9,Clothing,Women's Wear
+56,Accessories Item 33,Clothing,Accessories
+57,Skincare Item 41,Beauty,Skincare
+58,Swimming Item 28,Sports,Swimming
+59,Women's Wear Item 40,Clothing,Women's Wear
+60,Decor Item 27,Home & Kitchen,Decor
+61,Fitness Item 23,Sports,Fitness
+62,Cookware Item 25,Home & Kitchen,Cookware
+63,Fiction Item 40,Books,Fiction
+64,Self-Help Item 42,Books,Self-Help
+65,Fitness Item 25,Sports,Fitness
+66,Swimming Item 29,Sports,Swimming
+67,Tools Item 22,Beauty,Tools
+68,Accessories Item 43,Clothing,Accessories
+69,Non-Fiction Item 40,Books,Non-Fiction
+70,Fragrances Item 13,Beauty,Fragrances
+71,Women's Wear Item 18,Clothing,Women's Wear
+72,Tablets Item 9,Electronics,Tablets
+73,Self-Help Item 16,Books,Self-Help
+74,Tools Item 34,Beauty,Tools
+75,Cookware Item 12,Home & Kitchen,Cookware
+76,Fragrances Item 42,Beauty,Fragrances
+77,Smartphones Item 28,Electronics,Smartphones
+78,Haircare Item 24,Beauty,Haircare
+79,Makeup Item 32,Beauty,Makeup
+80,Fiction Item 15,Books,Fiction
+81,Football Item 9,Sports,Football
+82,Bedding Item 2,Home & Kitchen,Bedding
+83,Self-Help Item 29,Books,Self-Help
+84,Decor Item 40,Home & Kitchen,Decor
+85,Makeup Item 40,Beauty,Makeup
+86,Football Item 47,Sports,Football
+87,Cricket Item 13,Sports,Cricket
+88,Cycling Item 35,Sports,Cycling
+89,Kids Item 26,Clothing,Kids
+90,Makeup Item 15,Beauty,Makeup
+91,Haircare Item 50,Beauty,Haircare
+92,Non-Fiction Item 19,Books,Non-Fiction
+93,Furniture Item 28,Home & Kitchen,Furniture
+94,Academic Item 4,Books,Academic
+95,Cookware Item 35,Home & Kitchen,Cookware
+96,Tablets Item 28,Electronics,Tablets
+97,Headphones Item 9,Electronics,Headphones
+98,Haircare Item 47,Beauty,Haircare
+99,Cameras Item 15,Electronics,Cameras
+100,Furniture Item 23,Home & Kitchen,Furniture
+101,Non-Fiction Item 16,Books,Non-Fiction
+102,Cricket Item 22,Sports,Cricket
+103,Haircare Item 44,Beauty,Haircare
+104,Kids Item 4,Clothing,Kids
+105,Laptops Item 34,Electronics,Laptops
+106,Fragrances Item 37,Beauty,Fragrances
+107,Smartphones Item 7,Electronics,Smartphones
+108,Tools Item 26,Beauty,Tools
+109,Swimming Item 41,Sports,Swimming
+110,Appliances Item 39,Home & Kitchen,Appliances
+111,Cricket Item 24,Sports,Cricket
+112,Laptops Item 20,Electronics,Laptops
+113,Fragrances Item 2,Beauty,Fragrances
+114,Comics Item 45,Books,Comics
+115,Laptops Item 17,Electronics,Laptops
+116,Tools Item 14,Beauty,Tools
+117,Cookware Item 22,Home & Kitchen,Cookware
+118,Fragrances Item 35,Beauty,Fragrances
+119,Football Item 6,Sports,Football
+120,Haircare Item 32,Beauty,Haircare
+121,Tablets Item 49,Electronics,Tablets
+122,Tablets Item 14,Electronics,Tablets
+123,Decor Item 10,Home & Kitchen,Decor
+124,Football Item 21,Sports,Football
+125,Cookware Item 44,Home & Kitchen,Cookware
+126,Comics Item 42,Books,Comics
+127,Fiction Item 45,Books,Fiction
+128,Headphones Item 47,Electronics,Headphones
+129,Laptops Item 50,Electronics,Laptops
+130,Footwear Item 9,Clothing,Footwear
+131,Cameras Item 6,Electronics,Cameras
+132,Accessories Item 4,Clothing,Accessories
+133,Footwear Item 18,Clothing,Footwear
+134,Self-Help Item 1,Books,Self-Help
+135,Swimming Item 34,Sports,Swimming
+136,Cookware Item 13,Home & Kitchen,Cookware
+137,Football Item 46,Sports,Football
+138,Fiction Item 26,Books,Fiction
+139,Accessories Item 6,Clothing,Accessories
+140,Men's Wear Item 7,Clothing,Men's Wear
+141,Women's Wear Item 22,Clothing,Women's Wear
+142,Comics Item 19,Books,Comics
+143,Non-Fiction Item 25,Books,Non-Fiction
+144,Tablets Item 15,Electronics,Tablets
+145,Decor Item 32,Home & Kitchen,Decor
+146,Headphones Item 34,Electronics,Headphones
+147,Decor Item 15,Home & Kitchen,Decor
+148,Skincare Item 5,Beauty,Skincare
+149,Makeup Item 27,Beauty,Makeup
+150,Men's Wear Item 36,Clothing,Men's Wear
+151,Tools Item 17,Beauty,Tools
+152,Headphones Item 49,Electronics,Headphones
+153,Swimming Item 8,Sports,Swimming
+154,Tablets Item 30,Electronics,Tablets
+155,Smartphones Item 26,Electronics,Smartphones
+156,Fragrances Item 48,Beauty,Fragrances
+157,Non-Fiction Item 37,Books,Non-Fiction
+158,Tablets Item 12,Electronics,Tablets
+159,Kids Item 7,Clothing,Kids
+160,Tablets Item 39,Electronics,Tablets
+161,Appliances Item 43,Home & Kitchen,Appliances
+162,Non-Fiction Item 24,Books,Non-Fiction
+163,Cycling Item 27,Sports,Cycling
+164,Academic Item 40,Books,Academic
+165,Cricket Item 38,Sports,Cricket
+166,Cycling Item 4,Sports,Cycling
+167,Kids Item 37,Clothing,Kids
+168,Headphones Item 7,Electronics,Headphones
+169,Football Item 11,Sports,Football
+170,Self-Help Item 27,Books,Self-Help
+171,Cycling Item 10,Sports,Cycling
+172,Skincare Item 43,Beauty,Skincare
+173,Cycling Item 34,Sports,Cycling
+174,Fragrances Item 41,Beauty,Fragrances
+175,Fiction Item 9,Books,Fiction
+176,Self-Help Item 21,Books,Self-Help
+177,Haircare Item 35,Beauty,Haircare
+178,Skincare Item 40,Beauty,Skincare
+179,Cookware Item 41,Home & Kitchen,Cookware
+180,Kids Item 17,Clothing,Kids
+181,Fitness Item 11,Sports,Fitness
+182,Academic Item 33,Books,Academic
+183,Laptops Item 2,Electronics,Laptops
+184,Fitness Item 49,Sports,Fitness
+185,Decor Item 19,Home & Kitchen,Decor
+186,Cycling Item 42,Sports,Cycling
+187,Laptops Item 43,Electronics,Laptops
+188,Comics Item 46,Books,Comics
+189,Comics Item 41,Books,Comics
+190,Swimming Item 19,Sports,Swimming
+191,Haircare Item 3,Beauty,Haircare
+192,Accessories Item 38,Clothing,Accessories
+193,Football Item 5,Sports,Football
+194,Laptops Item 9,Electronics,Laptops
+195,Swimming Item 15,Sports,Swimming
+196,Furniture Item 39,Home & Kitchen,Furniture
+197,Fitness Item 45,Sports,Fitness
+198,Bedding Item 1,Home & Kitchen,Bedding
+199,Football Item 45,Sports,Football
+200,Football Item 50,Sports,Football
+201,Skincare Item 17,Beauty,Skincare
+202,Cameras Item 38,Electronics,Cameras
+203,Haircare Item 12,Beauty,Haircare
+204,Academic Item 28,Books,Academic
+205,Cameras Item 31,Electronics,Cameras
+206,Decor Item 13,Home & Kitchen,Decor
+207,Tools Item 41,Beauty,Tools
+208,Decor Item 44,Home & Kitchen,Decor
+209,Non-Fiction Item 18,Books,Non-Fiction
+210,Comics Item 31,Books,Comics
+211,Headphones Item 21,Electronics,Headphones
+212,Cricket Item 27,Sports,Cricket
+213,Decor Item 36,Home & Kitchen,Decor
+214,Kids Item 13,Clothing,Kids
+215,Bedding Item 10,Home & Kitchen,Bedding
+216,Appliances Item 8,Home & Kitchen,Appliances
+217,Footwear Item 17,Clothing,Footwear
+218,Laptops Item 10,Electronics,Laptops
+219,Skincare Item 29,Beauty,Skincare
+220,Tablets Item 36,Electronics,Tablets
+221,Appliances Item 35,Home & Kitchen,Appliances
+222,Appliances Item 42,Home & Kitchen,Appliances
+223,Accessories Item 46,Clothing,Accessories
+224,Accessories Item 50,Clothing,Accessories
+225,Women's Wear Item 27,Clothing,Women's Wear
+226,Self-Help Item 14,Books,Self-Help
+227,Cricket Item 14,Sports,Cricket
+228,Tools Item 8,Beauty,Tools
+229,Headphones Item 15,Electronics,Headphones
+230,Skincare Item 36,Beauty,Skincare
+231,Smartphones Item 40,Electronics,Smartphones
+232,Men's Wear Item 2,Clothing,Men's Wear
+233,Swimming Item 30,Sports,Swimming
+234,Cookware Item 33,Home & Kitchen,Cookware
+235,Non-Fiction Item 2,Books,Non-Fiction
+236,Fragrances Item 38,Beauty,Fragrances
+237,Non-Fiction Item 27,Books,Non-Fiction
+238,Women's Wear Item 45,Clothing,Women's Wear
+239,Footwear Item 49,Clothing,Footwear
+240,Makeup Item 42,Beauty,Makeup
+241,Accessories Item 11,Clothing,Accessories
+242,Men's Wear Item 3,Clothing,Men's Wear
+243,Men's Wear Item 1,Clothing,Men's Wear
+244,Fiction Item 10,Books,Fiction
+245,Kids Item 25,Clothing,Kids
+246,Decor Item 46,Home & Kitchen,Decor
+247,Furniture Item 30,Home & Kitchen,Furniture
+248,Headphones Item 22,Electronics,Headphones
+249,Decor Item 34,Home & Kitchen,Decor
+250,Cookware Item 46,Home & Kitchen,Cookware
+251,Academic Item 13,Books,Academic
+252,Cameras Item 3,Electronics,Cameras
+253,Furniture Item 14,Home & Kitchen,Furniture
+254,Cricket Item 26,Sports,Cricket
+255,Tools Item 15,Beauty,Tools
+256,Makeup Item 26,Beauty,Makeup
+257,Comics Item 37,Books,Comics
+258,Swimming Item 25,Sports,Swimming
+259,Fitness Item 20,Sports,Fitness
+260,Kids Item 41,Clothing,Kids
+261,Non-Fiction Item 32,Books,Non-Fiction
+262,Tools Item 16,Beauty,Tools
+263,Cameras Item 19,Electronics,Cameras
+264,Football Item 18,Sports,Football
+265,Cricket Item 10,Sports,Cricket
+266,Fiction Item 18,Books,Fiction
+267,Non-Fiction Item 29,Books,Non-Fiction
+268,Smartphones Item 12,Electronics,Smartphones
+269,Academic Item 12,Books,Academic
+270,Fragrances Item 29,Beauty,Fragrances
+271,Academic Item 35,Books,Academic
+272,Decor Item 25,Home & Kitchen,Decor
+273,Fiction Item 29,Books,Fiction
+274,Accessories Item 16,Clothing,Accessories
+275,Self-Help Item 26,Books,Self-Help
+276,Cameras Item 41,Electronics,Cameras
+277,Fitness Item 30,Sports,Fitness
+278,Comics Item 4,Books,Comics
+279,Footwear Item 25,Clothing,Footwear
+280,Accessories Item 9,Clothing,Accessories
+281,Cricket Item 47,Sports,Cricket
+282,Accessories Item 32,Clothing,Accessories
+283,Tablets Item 8,Electronics,Tablets
+284,Women's Wear Item 44,Clothing,Women's Wear
+285,Footwear Item 41,Clothing,Footwear
+286,Women's Wear Item 29,Clothing,Women's Wear
+287,Footwear Item 10,Clothing,Footwear
+288,Comics Item 22,Books,Comics
+289,Non-Fiction Item 20,Books,Non-Fiction
+290,Skincare Item 27,Beauty,Skincare
+291,Cricket Item 7,Sports,Cricket
+292,Comics Item 36,Books,Comics
+293,Men's Wear Item 17,Clothing,Men's Wear
+294,Accessories Item 40,Clothing,Accessories
+295,Cookware Item 48,Home & Kitchen,Cookware
+296,Men's Wear Item 45,Clothing,Men's Wear
+297,Furniture Item 26,Home & Kitchen,Furniture
+298,Furniture Item 12,Home & Kitchen,Furniture
+299,Tools Item 28,Beauty,Tools
+300,Laptops Item 37,Electronics,Laptops
+301,Self-Help Item 49,Books,Self-Help
+302,Cookware Item 28,Home & Kitchen,Cookware
+303,Self-Help Item 24,Books,Self-Help
+304,Kids Item 34,Clothing,Kids
+305,Football Item 12,Sports,Football
+306,Tools Item 27,Beauty,Tools
+307,Haircare Item 42,Beauty,Haircare
+308,Tools Item 43,Beauty,Tools
+309,Academic Item 11,Books,Academic
+310,Makeup Item 8,Beauty,Makeup
+311,Tablets Item 34,Electronics,Tablets
+312,Fragrances Item 36,Beauty,Fragrances
+313,Tools Item 33,Beauty,Tools
+314,Accessories Item 29,Clothing,Accessories
+315,Cookware Item 5,Home & Kitchen,Cookware
+316,Skincare Item 1,Beauty,Skincare
+317,Men's Wear Item 18,Clothing,Men's Wear
+318,Fragrances Item 30,Beauty,Fragrances
+319,Accessories Item 23,Clothing,Accessories
+320,Women's Wear Item 12,Clothing,Women's Wear
+321,Tablets Item 40,Electronics,Tablets
+322,Laptops Item 35,Electronics,Laptops
+323,Laptops Item 1,Electronics,Laptops
+324,Football Item 37,Sports,Football
+325,Self-Help Item 39,Books,Self-Help
+326,Furniture Item 50,Home & Kitchen,Furniture
+327,Skincare Item 14,Beauty,Skincare
+328,Skincare Item 19,Beauty,Skincare
+329,Haircare Item 2,Beauty,Haircare
+330,Decor Item 43,Home & Kitchen,Decor
+331,Makeup Item 23,Beauty,Makeup
+332,Cricket Item 4,Sports,Cricket
+333,Self-Help Item 33,Books,Self-Help
+334,Women's Wear Item 37,Clothing,Women's Wear
+335,Men's Wear Item 13,Clothing,Men's Wear
+336,Furniture Item 2,Home & Kitchen,Furniture
+337,Cricket Item 28,Sports,Cricket
+338,Furniture Item 48,Home & Kitchen,Furniture
+339,Men's Wear Item 5,Clothing,Men's Wear
+340,Football Item 13,Sports,Football
+341,Appliances Item 44,Home & Kitchen,Appliances
+342,Cricket Item 42,Sports,Cricket
+343,Swimming Item 37,Sports,Swimming
+344,Kids Item 22,Clothing,Kids
+345,Fiction Item 4,Books,Fiction
+346,Cameras Item 9,Electronics,Cameras
+347,Women's Wear Item 4,Clothing,Women's Wear
+348,Furniture Item 3,Home & Kitchen,Furniture
+349,Women's Wear Item 13,Clothing,Women's Wear
+350,Kids Item 8,Clothing,Kids
+351,Accessories Item 41,Clothing,Accessories
+352,Furniture Item 33,Home & Kitchen,Furniture
+353,Swimming Item 20,Sports,Swimming
+354,Headphones Item 20,Electronics,Headphones
+355,Tools Item 49,Beauty,Tools
+356,Academic Item 10,Books,Academic
+357,Footwear Item 13,Clothing,Footwear
+358,Fiction Item 14,Books,Fiction
+359,Cycling Item 22,Sports,Cycling
+360,Fragrances Item 43,Beauty,Fragrances
+361,Bedding Item 27,Home & Kitchen,Bedding
+362,Women's Wear Item 14,Clothing,Women's Wear
+363,Fitness Item 27,Sports,Fitness
+364,Laptops Item 14,Electronics,Laptops
+365,Non-Fiction Item 35,Books,Non-Fiction
+366,Fragrances Item 33,Beauty,Fragrances
+367,Non-Fiction Item 48,Books,Non-Fiction
+368,Makeup Item 25,Beauty,Makeup
+369,Laptops Item 11,Electronics,Laptops
+370,Swimming Item 31,Sports,Swimming
+371,Cricket Item 1,Sports,Cricket
+372,Appliances Item 50,Home & Kitchen,Appliances
+373,Tablets Item 44,Electronics,Tablets
+374,Smartphones Item 35,Electronics,Smartphones
+375,Smartphones Item 50,Electronics,Smartphones
+376,Appliances Item 4,Home & Kitchen,Appliances
+377,Haircare Item 13,Beauty,Haircare
+378,Appliances Item 7,Home & Kitchen,Appliances
+379,Cycling Item 16,Sports,Cycling
+380,Fiction Item 6,Books,Fiction
+381,Comics Item 9,Books,Comics
+382,Footwear Item 15,Clothing,Footwear
+383,Cameras Item 22,Electronics,Cameras
+384,Footwear Item 19,Clothing,Footwear
+385,Fitness Item 24,Sports,Fitness
+386,Comics Item 35,Books,Comics
+387,Laptops Item 49,Electronics,Laptops
+388,Fiction Item 39,Books,Fiction
+389,Headphones Item 39,Electronics,Headphones
+390,Headphones Item 8,Electronics,Headphones
+391,Tools Item 36,Beauty,Tools
+392,Cricket Item 12,Sports,Cricket
+393,Haircare Item 48,Beauty,Haircare
+394,Footwear Item 16,Clothing,Footwear
+395,Women's Wear Item 50,Clothing,Women's Wear
+396,Tools Item 23,Beauty,Tools
+397,Tablets Item 20,Electronics,Tablets
+398,Fragrances Item 3,Beauty,Fragrances
+399,Swimming Item 1,Sports,Swimming
+400,Skincare Item 45,Beauty,Skincare
+401,Appliances Item 3,Home & Kitchen,Appliances
+402,Self-Help Item 2,Books,Self-Help
+403,Laptops Item 12,Electronics,Laptops
+404,Swimming Item 10,Sports,Swimming
+405,Accessories Item 19,Clothing,Accessories
+406,Kids Item 15,Clothing,Kids
+407,Fragrances Item 20,Beauty,Fragrances
+408,Non-Fiction Item 42,Books,Non-Fiction
+409,Fitness Item 16,Sports,Fitness
+410,Football Item 44,Sports,Football
+411,Cookware Item 10,Home & Kitchen,Cookware
+412,Academic Item 5,Books,Academic
+413,Footwear Item 36,Clothing,Footwear
+414,Fragrances Item 4,Beauty,Fragrances
+415,Non-Fiction Item 38,Books,Non-Fiction
+416,Laptops Item 42,Electronics,Laptops
+417,Cookware Item 6,Home & Kitchen,Cookware
+418,Headphones Item 33,Electronics,Headphones
+419,Appliances Item 12,Home & Kitchen,Appliances
+420,Decor Item 50,Home & Kitchen,Decor
+421,Tablets Item 17,Electronics,Tablets
+422,Women's Wear Item 39,Clothing,Women's Wear
+423,Makeup Item 9,Beauty,Makeup
+424,Bedding Item 44,Home & Kitchen,Bedding
+425,Smartphones Item 14,Electronics,Smartphones
+426,Cameras Item 13,Electronics,Cameras
+427,Headphones Item 6,Electronics,Headphones
+428,Tablets Item 43,Electronics,Tablets
+429,Cycling Item 14,Sports,Cycling
+430,Fragrances Item 5,Beauty,Fragrances
+431,Cycling Item 8,Sports,Cycling
+432,Men's Wear Item 37,Clothing,Men's Wear
+433,Fitness Item 32,Sports,Fitness
+434,Headphones Item 24,Electronics,Headphones
+435,Smartphones Item 10,Electronics,Smartphones
+436,Swimming Item 14,Sports,Swimming
+437,Footwear Item 33,Clothing,Footwear
+438,Cricket Item 2,Sports,Cricket
+439,Self-Help Item 15,Books,Self-Help
+440,Appliances Item 45,Home & Kitchen,Appliances
+441,Men's Wear Item 32,Clothing,Men's Wear
+442,Accessories Item 30,Clothing,Accessories
+443,Fiction Item 28,Books,Fiction
+444,Tools Item 45,Beauty,Tools
+445,Cookware Item 1,Home & Kitchen,Cookware
+446,Men's Wear Item 21,Clothing,Men's Wear
+447,Kids Item 33,Clothing,Kids
+448,Fiction Item 19,Books,Fiction
+449,Fiction Item 48,Books,Fiction
+450,Women's Wear Item 34,Clothing,Women's Wear
+451,Cycling Item 28,Sports,Cycling
+452,Cookware Item 23,Home & Kitchen,Cookware
+453,Tools Item 12,Beauty,Tools
+454,Cycling Item 47,Sports,Cycling
+455,Smartphones Item 25,Electronics,Smartphones
+456,Headphones Item 23,Electronics,Headphones
+457,Laptops Item 40,Electronics,Laptops
+458,Fitness Item 21,Sports,Fitness
+459,Smartphones Item 47,Electronics,Smartphones
+460,Tablets Item 3,Electronics,Tablets
+461,Fiction Item 12,Books,Fiction
+462,Self-Help Item 32,Books,Self-Help
+463,Smartphones Item 23,Electronics,Smartphones
+464,Cameras Item 24,Electronics,Cameras
+465,Smartphones Item 34,Electronics,Smartphones
+466,Furniture Item 24,Home & Kitchen,Furniture
+467,Cricket Item 50,Sports,Cricket
+468,Swimming Item 45,Sports,Swimming
+469,Cycling Item 9,Sports,Cycling
+470,Cycling Item 37,Sports,Cycling
+471,Cricket Item 29,Sports,Cricket
+472,Comics Item 33,Books,Comics
+473,Academic Item 27,Books,Academic
+474,Comics Item 11,Books,Comics
+475,Cycling Item 13,Sports,Cycling
+476,Non-Fiction Item 15,Books,Non-Fiction
+477,Fitness Item 19,Sports,Fitness
+478,Bedding Item 6,Home & Kitchen,Bedding
+479,Makeup Item 1,Beauty,Makeup
+480,Furniture Item 1,Home & Kitchen,Furniture
+481,Bedding Item 34,Home & Kitchen,Bedding
+482,Swimming Item 4,Sports,Swimming
+483,Accessories Item 18,Clothing,Accessories
+484,Skincare Item 13,Beauty,Skincare
+485,Cricket Item 3,Sports,Cricket
+486,Self-Help Item 12,Books,Self-Help
+487,Skincare Item 38,Beauty,Skincare
+488,Cameras Item 47,Electronics,Cameras
+489,Kids Item 45,Clothing,Kids
+490,Swimming Item 33,Sports,Swimming
+491,Accessories Item 13,Clothing,Accessories
+492,Kids Item 16,Clothing,Kids
+493,Fragrances Item 19,Beauty,Fragrances
+494,Tools Item 9,Beauty,Tools
+495,Haircare Item 30,Beauty,Haircare
+496,Cookware Item 30,Home & Kitchen,Cookware
+497,Cookware Item 20,Home & Kitchen,Cookware
+498,Non-Fiction Item 47,Books,Non-Fiction
+499,Skincare Item 28,Beauty,Skincare
+500,Men's Wear Item 44,Clothing,Men's Wear
+501,Kids Item 27,Clothing,Kids
+502,Men's Wear Item 50,Clothing,Men's Wear
+503,Footwear Item 27,Clothing,Footwear
+504,Fitness Item 33,Sports,Fitness
+505,Makeup Item 11,Beauty,Makeup
+506,Haircare Item 34,Beauty,Haircare
+507,Football Item 14,Sports,Football
+508,Smartphones Item 39,Electronics,Smartphones
+509,Accessories Item 31,Clothing,Accessories
+510,Makeup Item 44,Beauty,Makeup
+511,Women's Wear Item 20,Clothing,Women's Wear
+512,Academic Item 46,Books,Academic
+513,Appliances Item 47,Home & Kitchen,Appliances
+514,Non-Fiction Item 5,Books,Non-Fiction
+515,Fiction Item 33,Books,Fiction
+516,Academic Item 37,Books,Academic
+517,Appliances Item 37,Home & Kitchen,Appliances
+518,Fitness Item 14,Sports,Fitness
+519,Makeup Item 7,Beauty,Makeup
+520,Tablets Item 24,Electronics,Tablets
+521,Cricket Item 46,Sports,Cricket
+522,Fiction Item 22,Books,Fiction
+523,Men's Wear Item 33,Clothing,Men's Wear
+524,Furniture Item 43,Home & Kitchen,Furniture
+525,Makeup Item 4,Beauty,Makeup
+526,Accessories Item 15,Clothing,Accessories
+527,Cycling Item 15,Sports,Cycling
+528,Swimming Item 17,Sports,Swimming
+529,Bedding Item 46,Home & Kitchen,Bedding
+530,Tools Item 42,Beauty,Tools
+531,Fitness Item 12,Sports,Fitness
+532,Swimming Item 26,Sports,Swimming
+533,Cameras Item 37,Electronics,Cameras
+534,Accessories Item 2,Clothing,Accessories
+535,Cookware Item 36,Home & Kitchen,Cookware
+536,Cricket Item 31,Sports,Cricket
+537,Cameras Item 25,Electronics,Cameras
+538,Cycling Item 41,Sports,Cycling
+539,Laptops Item 26,Electronics,Laptops
+540,Comics Item 39,Books,Comics
+541,Decor Item 47,Home & Kitchen,Decor
+542,Comics Item 28,Books,Comics
+543,Non-Fiction Item 34,Books,Non-Fiction
+544,Tools Item 40,Beauty,Tools
+545,Self-Help Item 13,Books,Self-Help
+546,Bedding Item 23,Home & Kitchen,Bedding
+547,Swimming Item 11,Sports,Swimming
+548,Headphones Item 46,Electronics,Headphones
+549,Bedding Item 22,Home & Kitchen,Bedding
+550,Bedding Item 9,Home & Kitchen,Bedding
+551,Men's Wear Item 46,Clothing,Men's Wear
+552,Non-Fiction Item 21,Books,Non-Fiction
+553,Football Item 23,Sports,Football
+554,Fiction Item 24,Books,Fiction
+555,Men's Wear Item 25,Clothing,Men's Wear
+556,Footwear Item 11,Clothing,Footwear
+557,Swimming Item 24,Sports,Swimming
+558,Fragrances Item 40,Beauty,Fragrances
+559,Football Item 10,Sports,Football
+560,Appliances Item 21,Home & Kitchen,Appliances
+561,Decor Item 29,Home & Kitchen,Decor
+562,Smartphones Item 2,Electronics,Smartphones
+563,Women's Wear Item 33,Clothing,Women's Wear
+564,Comics Item 7,Books,Comics
+565,Appliances Item 20,Home & Kitchen,Appliances
+566,Comics Item 2,Books,Comics
+567,Appliances Item 28,Home & Kitchen,Appliances
+568,Cricket Item 45,Sports,Cricket
+569,Cameras Item 34,Electronics,Cameras
+570,Men's Wear Item 38,Clothing,Men's Wear
+571,Skincare Item 44,Beauty,Skincare
+572,Haircare Item 11,Beauty,Haircare
+573,Academic Item 6,Books,Academic
+574,Smartphones Item 27,Electronics,Smartphones
+575,Headphones Item 42,Electronics,Headphones
+576,Self-Help Item 22,Books,Self-Help
+577,Furniture Item 9,Home & Kitchen,Furniture
+578,Furniture Item 32,Home & Kitchen,Furniture
+579,Football Item 30,Sports,Football
+580,Cameras Item 23,Electronics,Cameras
+581,Non-Fiction Item 30,Books,Non-Fiction
+582,Makeup Item 49,Beauty,Makeup
+583,Self-Help Item 11,Books,Self-Help
+584,Furniture Item 4,Home & Kitchen,Furniture
+585,Comics Item 24,Books,Comics
+586,Furniture Item 37,Home & Kitchen,Furniture
+587,Accessories Item 42,Clothing,Accessories
+588,Footwear Item 14,Clothing,Footwear
+589,Headphones Item 31,Electronics,Headphones
+590,Tools Item 6,Beauty,Tools
+591,Women's Wear Item 3,Clothing,Women's Wear
+592,Comics Item 15,Books,Comics
+593,Appliances Item 26,Home & Kitchen,Appliances
+594,Headphones Item 25,Electronics,Headphones
+595,Swimming Item 23,Sports,Swimming
+596,Fitness Item 40,Sports,Fitness
+597,Fitness Item 46,Sports,Fitness
+598,Footwear Item 45,Clothing,Footwear
+599,Tools Item 25,Beauty,Tools
+600,Non-Fiction Item 6,Books,Non-Fiction
+601,Football Item 35,Sports,Football
+602,Comics Item 38,Books,Comics
+603,Non-Fiction Item 50,Books,Non-Fiction
+604,Makeup Item 10,Beauty,Makeup
+605,Skincare Item 24,Beauty,Skincare
+606,Laptops Item 41,Electronics,Laptops
+607,Headphones Item 27,Electronics,Headphones
+608,Cycling Item 18,Sports,Cycling
+609,Tools Item 46,Beauty,Tools
+610,Women's Wear Item 8,Clothing,Women's Wear
+611,Furniture Item 18,Home & Kitchen,Furniture
+612,Academic Item 22,Books,Academic
+613,Smartphones Item 46,Electronics,Smartphones
+614,Cameras Item 48,Electronics,Cameras
+615,Furniture Item 8,Home & Kitchen,Furniture
+616,Men's Wear Item 27,Clothing,Men's Wear
+617,Tools Item 29,Beauty,Tools
+618,Footwear Item 8,Clothing,Footwear
+619,Smartphones Item 41,Electronics,Smartphones
+620,Cameras Item 10,Electronics,Cameras
+621,Non-Fiction Item 11,Books,Non-Fiction
+622,Haircare Item 25,Beauty,Haircare
+623,Makeup Item 19,Beauty,Makeup
+624,Bedding Item 8,Home & Kitchen,Bedding
+625,Haircare Item 49,Beauty,Haircare
+626,Self-Help Item 34,Books,Self-Help
+627,Decor Item 8,Home & Kitchen,Decor
+628,Laptops Item 48,Electronics,Laptops
+629,Swimming Item 47,Sports,Swimming
+630,Bedding Item 37,Home & Kitchen,Bedding
+631,Women's Wear Item 36,Clothing,Women's Wear
+632,Fragrances Item 34,Beauty,Fragrances
+633,Laptops Item 6,Electronics,Laptops
+634,Cameras Item 26,Electronics,Cameras
+635,Skincare Item 49,Beauty,Skincare
+636,Headphones Item 26,Electronics,Headphones
+637,Furniture Item 11,Home & Kitchen,Furniture
+638,Skincare Item 47,Beauty,Skincare
+639,Men's Wear Item 41,Clothing,Men's Wear
+640,Makeup Item 5,Beauty,Makeup
+641,Makeup Item 41,Beauty,Makeup
+642,Accessories Item 5,Clothing,Accessories
+643,Cookware Item 2,Home & Kitchen,Cookware
+644,Footwear Item 31,Clothing,Footwear
+645,Cameras Item 45,Electronics,Cameras
+646,Headphones Item 28,Electronics,Headphones
+647,Appliances Item 46,Home & Kitchen,Appliances
+648,Comics Item 5,Books,Comics
+649,Fitness Item 3,Sports,Fitness
+650,Furniture Item 5,Home & Kitchen,Furniture
+651,Decor Item 11,Home & Kitchen,Decor
+652,Swimming Item 22,Sports,Swimming
+653,Furniture Item 6,Home & Kitchen,Furniture
+654,Accessories Item 48,Clothing,Accessories
+655,Footwear Item 6,Clothing,Footwear
+656,Bedding Item 17,Home & Kitchen,Bedding
+657,Fitness Item 34,Sports,Fitness
+658,Headphones Item 19,Electronics,Headphones
+659,Smartphones Item 5,Electronics,Smartphones
+660,Tablets Item 16,Electronics,Tablets
+661,Men's Wear Item 6,Clothing,Men's Wear
+662,Cycling Item 5,Sports,Cycling
+663,Fitness Item 43,Sports,Fitness
+664,Fiction Item 36,Books,Fiction
+665,Cycling Item 39,Sports,Cycling
+666,Swimming Item 49,Sports,Swimming
+667,Cricket Item 34,Sports,Cricket
+668,Men's Wear Item 31,Clothing,Men's Wear
+669,Bedding Item 40,Home & Kitchen,Bedding
+670,Cameras Item 49,Electronics,Cameras
+671,Tools Item 21,Beauty,Tools
+672,Men's Wear Item 49,Clothing,Men's Wear
+673,Haircare Item 20,Beauty,Haircare
+674,Bedding Item 32,Home & Kitchen,Bedding
+675,Smartphones Item 1,Electronics,Smartphones
+676,Fragrances Item 46,Beauty,Fragrances
+677,Laptops Item 4,Electronics,Laptops
+678,Furniture Item 20,Home & Kitchen,Furniture
+679,Smartphones Item 29,Electronics,Smartphones
+680,Haircare Item 4,Beauty,Haircare
+681,Bedding Item 24,Home & Kitchen,Bedding
+682,Smartphones Item 38,Electronics,Smartphones
+683,Self-Help Item 25,Books,Self-Help
+684,Cycling Item 25,Sports,Cycling
+685,Fragrances Item 21,Beauty,Fragrances
+686,Academic Item 50,Books,Academic
+687,Bedding Item 42,Home & Kitchen,Bedding
+688,Cycling Item 31,Sports,Cycling
+689,Non-Fiction Item 23,Books,Non-Fiction
+690,Cameras Item 32,Electronics,Cameras
+691,Tools Item 5,Beauty,Tools
+692,Footwear Item 37,Clothing,Footwear
+693,Cookware Item 34,Home & Kitchen,Cookware
+694,Decor Item 24,Home & Kitchen,Decor
+695,Self-Help Item 35,Books,Self-Help
+696,Fitness Item 7,Sports,Fitness
+697,Appliances Item 6,Home & Kitchen,Appliances
+698,Swimming Item 9,Sports,Swimming
+699,Bedding Item 16,Home & Kitchen,Bedding
+700,Cricket Item 49,Sports,Cricket
+701,Football Item 31,Sports,Football
+702,Cycling Item 1,Sports,Cycling
+703,Skincare Item 9,Beauty,Skincare
+704,Men's Wear Item 11,Clothing,Men's Wear
+705,Football Item 36,Sports,Football
+706,Non-Fiction Item 26,Books,Non-Fiction
+707,Cookware Item 17,Home & Kitchen,Cookware
+708,Football Item 40,Sports,Football
+709,Cameras Item 12,Electronics,Cameras
+710,Laptops Item 45,Electronics,Laptops
+711,Women's Wear Item 5,Clothing,Women's Wear
+712,Furniture Item 31,Home & Kitchen,Furniture
+713,Headphones Item 17,Electronics,Headphones
+714,Kids Item 47,Clothing,Kids
+715,Comics Item 43,Books,Comics
+716,Men's Wear Item 40,Clothing,Men's Wear
+717,Swimming Item 2,Sports,Swimming
+718,Makeup Item 37,Beauty,Makeup
+719,Football Item 20,Sports,Football
+720,Accessories Item 1,Clothing,Accessories
+721,Cameras Item 5,Electronics,Cameras
+722,Footwear Item 48,Clothing,Footwear
+723,Academic Item 17,Books,Academic
+724,Footwear Item 46,Clothing,Footwear
+725,Academic Item 49,Books,Academic
+726,Makeup Item 17,Beauty,Makeup
+727,Cricket Item 18,Sports,Cricket
+728,Headphones Item 18,Electronics,Headphones
+729,Women's Wear Item 32,Clothing,Women's Wear
+730,Comics Item 12,Books,Comics
+731,Football Item 48,Sports,Football
+732,Women's Wear Item 16,Clothing,Women's Wear
+733,Accessories Item 14,Clothing,Accessories
+734,Academic Item 20,Books,Academic
+735,Footwear Item 7,Clothing,Footwear
+736,Headphones Item 16,Electronics,Headphones
+737,Appliances Item 2,Home & Kitchen,Appliances
+738,Academic Item 32,Books,Academic
+739,Tools Item 10,Beauty,Tools
+740,Haircare Item 21,Beauty,Haircare
+741,Cycling Item 43,Sports,Cycling
+742,Academic Item 39,Books,Academic
+743,Fiction Item 49,Books,Fiction
+744,Laptops Item 22,Electronics,Laptops
+745,Cricket Item 41,Sports,Cricket
+746,Skincare Item 37,Beauty,Skincare
+747,Fragrances Item 14,Beauty,Fragrances
+748,Accessories Item 34,Clothing,Accessories
+749,Headphones Item 38,Electronics,Headphones
+750,Comics Item 30,Books,Comics
+751,Cameras Item 17,Electronics,Cameras
+752,Haircare Item 27,Beauty,Haircare
+753,Smartphones Item 42,Electronics,Smartphones
+754,Fitness Item 8,Sports,Fitness
+755,Fragrances Item 9,Beauty,Fragrances
+756,Cycling Item 19,Sports,Cycling
+757,Non-Fiction Item 49,Books,Non-Fiction
+758,Appliances Item 1,Home & Kitchen,Appliances
+759,Footwear Item 35,Clothing,Footwear
+760,Cameras Item 21,Electronics,Cameras
+761,Furniture Item 25,Home & Kitchen,Furniture
+762,Smartphones Item 6,Electronics,Smartphones
+763,Fiction Item 50,Books,Fiction
+764,Haircare Item 41,Beauty,Haircare
+765,Fiction Item 1,Books,Fiction
+766,Fiction Item 27,Books,Fiction
+767,Fragrances Item 50,Beauty,Fragrances
+768,Tablets Item 18,Electronics,Tablets
+769,Bedding Item 45,Home & Kitchen,Bedding
+770,Men's Wear Item 15,Clothing,Men's Wear
+771,Kids Item 50,Clothing,Kids
+772,Self-Help Item 28,Books,Self-Help
+773,Comics Item 20,Books,Comics
+774,Appliances Item 49,Home & Kitchen,Appliances
+775,Laptops Item 30,Electronics,Laptops
+776,Self-Help Item 44,Books,Self-Help
+777,Accessories Item 45,Clothing,Accessories
+778,Haircare Item 31,Beauty,Haircare
+779,Fiction Item 8,Books,Fiction
+780,Non-Fiction Item 28,Books,Non-Fiction
+781,Women's Wear Item 47,Clothing,Women's Wear
+782,Men's Wear Item 29,Clothing,Men's Wear
+783,Men's Wear Item 23,Clothing,Men's Wear
+784,Haircare Item 39,Beauty,Haircare
+785,Cycling Item 3,Sports,Cycling
+786,Kids Item 21,Clothing,Kids
+787,Comics Item 29,Books,Comics
+788,Self-Help Item 3,Books,Self-Help
+789,Smartphones Item 21,Electronics,Smartphones
+790,Appliances Item 25,Home & Kitchen,Appliances
+791,Comics Item 34,Books,Comics
+792,Fitness Item 28,Sports,Fitness
+793,Cookware Item 49,Home & Kitchen,Cookware
+794,Cycling Item 30,Sports,Cycling
+795,Skincare Item 22,Beauty,Skincare
+796,Haircare Item 29,Beauty,Haircare
+797,Tablets Item 2,Electronics,Tablets
+798,Cricket Item 11,Sports,Cricket
+799,Laptops Item 39,Electronics,Laptops
+800,Smartphones Item 30,Electronics,Smartphones
+801,Skincare Item 23,Beauty,Skincare
+802,Fiction Item 43,Books,Fiction
+803,Comics Item 3,Books,Comics
+804,Fiction Item 5,Books,Fiction
+805,Tablets Item 33,Electronics,Tablets
+806,Cookware Item 14,Home & Kitchen,Cookware
+807,Swimming Item 3,Sports,Swimming
+808,Fitness Item 18,Sports,Fitness
+809,Fiction Item 47,Books,Fiction
+810,Footwear Item 24,Clothing,Footwear
+811,Cookware Item 18,Home & Kitchen,Cookware
+812,Furniture Item 35,Home & Kitchen,Furniture
+813,Cricket Item 16,Sports,Cricket
+814,Smartphones Item 44,Electronics,Smartphones
+815,Academic Item 14,Books,Academic
+816,Appliances Item 41,Home & Kitchen,Appliances
+817,Headphones Item 10,Electronics,Headphones
+818,Appliances Item 19,Home & Kitchen,Appliances
+819,Self-Help Item 50,Books,Self-Help
+820,Laptops Item 38,Electronics,Laptops
+821,Haircare Item 10,Beauty,Haircare
+822,Kids Item 28,Clothing,Kids
+823,Women's Wear Item 49,Clothing,Women's Wear
+824,Fiction Item 35,Books,Fiction
+825,Fragrances Item 6,Beauty,Fragrances
+826,Skincare Item 39,Beauty,Skincare
+827,Football Item 43,Sports,Football
+828,Men's Wear Item 48,Clothing,Men's Wear
+829,Cookware Item 27,Home & Kitchen,Cookware
+830,Non-Fiction Item 14,Books,Non-Fiction
+831,Fragrances Item 22,Beauty,Fragrances
+832,Comics Item 48,Books,Comics
+833,Kids Item 48,Clothing,Kids
+834,Decor Item 16,Home & Kitchen,Decor
+835,Bedding Item 26,Home & Kitchen,Bedding
+836,Academic Item 16,Books,Academic
+837,Footwear Item 1,Clothing,Footwear
+838,Laptops Item 15,Electronics,Laptops
+839,Skincare Item 3,Beauty,Skincare
+840,Kids Item 43,Clothing,Kids
+841,Accessories Item 8,Clothing,Accessories
+842,Kids Item 42,Clothing,Kids
+843,Accessories Item 20,Clothing,Accessories
+844,Cookware Item 9,Home & Kitchen,Cookware
+845,Men's Wear Item 10,Clothing,Men's Wear
+846,Decor Item 20,Home & Kitchen,Decor
+847,Headphones Item 37,Electronics,Headphones
+848,Cycling Item 12,Sports,Cycling
+849,Cricket Item 35,Sports,Cricket
+850,Fragrances Item 49,Beauty,Fragrances
+851,Makeup Item 3,Beauty,Makeup
+852,Footwear Item 23,Clothing,Footwear
+853,Skincare Item 42,Beauty,Skincare
+854,Women's Wear Item 26,Clothing,Women's Wear
+855,Men's Wear Item 14,Clothing,Men's Wear
+856,Fitness Item 10,Sports,Fitness
+857,Women's Wear Item 38,Clothing,Women's Wear
+858,Furniture Item 22,Home & Kitchen,Furniture
+859,Headphones Item 1,Electronics,Headphones
+860,Accessories Item 22,Clothing,Accessories
+861,Haircare Item 43,Beauty,Haircare
+862,Bedding Item 48,Home & Kitchen,Bedding
+863,Furniture Item 29,Home & Kitchen,Furniture
+864,Furniture Item 7,Home & Kitchen,Furniture
+865,Footwear Item 26,Clothing,Footwear
+866,Makeup Item 43,Beauty,Makeup
+867,Non-Fiction Item 8,Books,Non-Fiction
+868,Laptops Item 44,Electronics,Laptops
+869,Men's Wear Item 43,Clothing,Men's Wear
+870,Decor Item 39,Home & Kitchen,Decor
+871,Women's Wear Item 23,Clothing,Women's Wear
+872,Makeup Item 14,Beauty,Makeup
+873,Cameras Item 2,Electronics,Cameras
+874,Academic Item 25,Books,Academic
+875,Skincare Item 48,Beauty,Skincare
+876,Fiction Item 38,Books,Fiction
+877,Men's Wear Item 16,Clothing,Men's Wear
+878,Cricket Item 17,Sports,Cricket
+879,Haircare Item 7,Beauty,Haircare
+880,Cookware Item 31,Home & Kitchen,Cookware
+881,Fitness Item 13,Sports,Fitness
+882,Furniture Item 16,Home & Kitchen,Furniture
+883,Academic Item 38,Books,Academic
+884,Decor Item 45,Home & Kitchen,Decor
+885,Makeup Item 36,Beauty,Makeup
+886,Fiction Item 25,Books,Fiction
+887,Football Item 2,Sports,Football
+888,Football Item 42,Sports,Football
+889,Cycling Item 26,Sports,Cycling
+890,Swimming Item 46,Sports,Swimming
+891,Non-Fiction Item 36,Books,Non-Fiction
+892,Appliances Item 33,Home & Kitchen,Appliances
+893,Fragrances Item 18,Beauty,Fragrances
+894,Cycling Item 44,Sports,Cycling
+895,Tablets Item 46,Electronics,Tablets
+896,Skincare Item 20,Beauty,Skincare
+897,Tools Item 32,Beauty,Tools
+898,Non-Fiction Item 41,Books,Non-Fiction
+899,Laptops Item 36,Electronics,Laptops
+900,Skincare Item 12,Beauty,Skincare
+901,Comics Item 14,Books,Comics
+902,Makeup Item 47,Beauty,Makeup
+903,Appliances Item 18,Home & Kitchen,Appliances
+904,Laptops Item 32,Electronics,Laptops
+905,Bedding Item 18,Home & Kitchen,Bedding
+906,Bedding Item 11,Home & Kitchen,Bedding
+907,Decor Item 26,Home & Kitchen,Decor
+908,Fitness Item 31,Sports,Fitness
+909,Men's Wear Item 4,Clothing,Men's Wear
+910,Non-Fiction Item 33,Books,Non-Fiction
+911,Fragrances Item 24,Beauty,Fragrances
+912,Appliances Item 11,Home & Kitchen,Appliances
+913,Cookware Item 45,Home & Kitchen,Cookware
+914,Cameras Item 40,Electronics,Cameras
+915,Comics Item 10,Books,Comics
+916,Tools Item 47,Beauty,Tools
+917,Haircare Item 37,Beauty,Haircare
+918,Cycling Item 20,Sports,Cycling
+919,Skincare Item 30,Beauty,Skincare
+920,Cricket Item 33,Sports,Cricket
+921,Women's Wear Item 6,Clothing,Women's Wear
+922,Tools Item 4,Beauty,Tools
+923,Cycling Item 33,Sports,Cycling
+924,Self-Help Item 30,Books,Self-Help
+925,Decor Item 1,Home & Kitchen,Decor
+926,Headphones Item 29,Electronics,Headphones
+927,Accessories Item 37,Clothing,Accessories
+928,Cookware Item 42,Home & Kitchen,Cookware
+929,Headphones Item 3,Electronics,Headphones
+930,Women's Wear Item 46,Clothing,Women's Wear
+931,Bedding Item 20,Home & Kitchen,Bedding
+932,Kids Item 46,Clothing,Kids
+933,Haircare Item 16,Beauty,Haircare
+934,Tablets Item 6,Electronics,Tablets
+935,Cycling Item 24,Sports,Cycling
+936,Self-Help Item 9,Books,Self-Help
+937,Headphones Item 32,Electronics,Headphones
+938,Kids Item 20,Clothing,Kids
+939,Furniture Item 41,Home & Kitchen,Furniture
+940,Football Item 16,Sports,Football
+941,Bedding Item 15,Home & Kitchen,Bedding
+942,Men's Wear Item 20,Clothing,Men's Wear
+943,Fitness Item 15,Sports,Fitness
+944,Non-Fiction Item 46,Books,Non-Fiction
+945,Bedding Item 3,Home & Kitchen,Bedding
+946,Academic Item 2,Books,Academic
+947,Haircare Item 36,Beauty,Haircare
+948,Skincare Item 11,Beauty,Skincare
+949,Cameras Item 14,Electronics,Cameras
+950,Kids Item 18,Clothing,Kids
+951,Swimming Item 44,Sports,Swimming
+952,Fitness Item 48,Sports,Fitness
+953,Cookware Item 40,Home & Kitchen,Cookware
+954,Fragrances Item 31,Beauty,Fragrances
+955,Fitness Item 42,Sports,Fitness
+956,Academic Item 44,Books,Academic
+957,Cricket Item 15,Sports,Cricket
+958,Fitness Item 2,Sports,Fitness
+959,Accessories Item 26,Clothing,Accessories
+960,Cycling Item 7,Sports,Cycling
+961,Kids Item 29,Clothing,Kids
+962,Footwear Item 44,Clothing,Footwear
+963,Self-Help Item 40,Books,Self-Help
+964,Men's Wear Item 42,Clothing,Men's Wear
+965,Appliances Item 32,Home & Kitchen,Appliances
+966,Tools Item 35,Beauty,Tools
+967,Women's Wear Item 11,Clothing,Women's Wear
+968,Football Item 19,Sports,Football
+969,Makeup Item 12,Beauty,Makeup
+970,Kids Item 6,Clothing,Kids
+971,Men's Wear Item 39,Clothing,Men's Wear
+972,Comics Item 49,Books,Comics
+973,Smartphones Item 16,Electronics,Smartphones
+974,Swimming Item 27,Sports,Swimming
+975,Appliances Item 13,Home & Kitchen,Appliances
+976,Decor Item 42,Home & Kitchen,Decor
+977,Kids Item 49,Clothing,Kids
+978,Football Item 39,Sports,Football
+979,Tablets Item 50,Electronics,Tablets
+980,Footwear Item 34,Clothing,Footwear
+981,Fitness Item 38,Sports,Fitness
+982,Kids Item 23,Clothing,Kids
+983,Laptops Item 24,Electronics,Laptops
+984,Fragrances Item 26,Beauty,Fragrances
+985,Academic Item 29,Books,Academic
+986,Tools Item 20,Beauty,Tools
+987,Furniture Item 38,Home & Kitchen,Furniture
+988,Cricket Item 32,Sports,Cricket
+989,Headphones Item 14,Electronics,Headphones
+990,Bedding Item 36,Home & Kitchen,Bedding
+991,Laptops Item 8,Electronics,Laptops
+992,Academic Item 7,Books,Academic
+993,Footwear Item 32,Clothing,Footwear
+994,Tools Item 3,Beauty,Tools
+995,Fitness Item 37,Sports,Fitness
+996,Cameras Item 44,Electronics,Cameras
+997,Football Item 49,Sports,Football
+998,Comics Item 21,Books,Comics
+999,Footwear Item 2,Clothing,Footwear
+1000,Haircare Item 45,Beauty,Haircare
+1001,Laptops Item 21,Electronics,Laptops
+1002,Football Item 28,Sports,Football
+1003,Laptops Item 23,Electronics,Laptops
+1004,Decor Item 21,Home & Kitchen,Decor
+1005,Men's Wear Item 34,Clothing,Men's Wear
+1006,Swimming Item 32,Sports,Swimming
+1007,Football Item 22,Sports,Football
+1008,Appliances Item 14,Home & Kitchen,Appliances
+1009,Cricket Item 37,Sports,Cricket
+1010,Decor Item 28,Home & Kitchen,Decor
+1011,Self-Help Item 6,Books,Self-Help
+1012,Furniture Item 27,Home & Kitchen,Furniture
+1013,Footwear Item 40,Clothing,Footwear
+1014,Bedding Item 50,Home & Kitchen,Bedding
+1015,Women's Wear Item 10,Clothing,Women's Wear
+1016,Bedding Item 19,Home & Kitchen,Bedding
+1017,Women's Wear Item 15,Clothing,Women's Wear
+1018,Non-Fiction Item 10,Books,Non-Fiction
+1019,Smartphones Item 24,Electronics,Smartphones
+1020,Football Item 4,Sports,Football
+1021,Tablets Item 41,Electronics,Tablets
+1022,Fitness Item 4,Sports,Fitness
+1023,Laptops Item 16,Electronics,Laptops
+1024,Makeup Item 29,Beauty,Makeup
+1025,Self-Help Item 31,Books,Self-Help
+1026,Cameras Item 29,Electronics,Cameras
+1027,Skincare Item 6,Beauty,Skincare
+1028,Academic Item 42,Books,Academic
+1029,Football Item 7,Sports,Football
+1030,Tablets Item 13,Electronics,Tablets
+1031,Furniture Item 42,Home & Kitchen,Furniture
+1032,Kids Item 36,Clothing,Kids
+1033,Kids Item 40,Clothing,Kids
+1034,Makeup Item 39,Beauty,Makeup
+1035,Headphones Item 44,Electronics,Headphones
+1036,Swimming Item 18,Sports,Swimming
+1037,Cameras Item 50,Electronics,Cameras
+1038,Cycling Item 45,Sports,Cycling
+1039,Makeup Item 2,Beauty,Makeup
+1040,Smartphones Item 22,Electronics,Smartphones
+1041,Accessories Item 17,Clothing,Accessories
+1042,Bedding Item 29,Home & Kitchen,Bedding
+1043,Laptops Item 18,Electronics,Laptops
+1044,Footwear Item 43,Clothing,Footwear
+1045,Non-Fiction Item 44,Books,Non-Fiction
+1046,Cameras Item 8,Electronics,Cameras
+1047,Swimming Item 42,Sports,Swimming
+1048,Kids Item 39,Clothing,Kids
+1049,Fragrances Item 47,Beauty,Fragrances
+1050,Women's Wear Item 1,Clothing,Women's Wear
+1051,Headphones Item 48,Electronics,Headphones
+1052,Accessories Item 35,Clothing,Accessories
+1053,Footwear Item 4,Clothing,Footwear
+1054,Kids Item 3,Clothing,Kids
+1055,Smartphones Item 31,Electronics,Smartphones
+1056,Haircare Item 15,Beauty,Haircare
+1057,Bedding Item 12,Home & Kitchen,Bedding
+1058,Self-Help Item 37,Books,Self-Help
+1059,Swimming Item 40,Sports,Swimming
+1060,Cricket Item 40,Sports,Cricket
+1061,Tablets Item 26,Electronics,Tablets
+1062,Smartphones Item 11,Electronics,Smartphones
+1063,Makeup Item 30,Beauty,Makeup
+1064,Headphones Item 11,Electronics,Headphones
+1065,Football Item 3,Sports,Football
+1066,Cycling Item 29,Sports,Cycling
+1067,Kids Item 12,Clothing,Kids
+1068,Decor Item 37,Home & Kitchen,Decor
+1069,Swimming Item 16,Sports,Swimming
+1070,Football Item 26,Sports,Football
+1071,Makeup Item 6,Beauty,Makeup
+1072,Smartphones Item 45,Electronics,Smartphones
+1073,Comics Item 26,Books,Comics
+1074,Self-Help Item 19,Books,Self-Help
+1075,Women's Wear Item 41,Clothing,Women's Wear
+1076,Kids Item 14,Clothing,Kids
+1077,Women's Wear Item 2,Clothing,Women's Wear
+1078,Tablets Item 27,Electronics,Tablets
+1079,Swimming Item 50,Sports,Swimming
+1080,Accessories Item 25,Clothing,Accessories
+1081,Haircare Item 28,Beauty,Haircare
+1082,Smartphones Item 33,Electronics,Smartphones
+1083,Headphones Item 45,Electronics,Headphones
+1084,Football Item 32,Sports,Football
+1085,Footwear Item 22,Clothing,Footwear
+1086,Men's Wear Item 19,Clothing,Men's Wear
+1087,Tablets Item 29,Electronics,Tablets
+1088,Makeup Item 34,Beauty,Makeup
+1089,Fitness Item 5,Sports,Fitness
+1090,Fitness Item 44,Sports,Fitness
+1091,Bedding Item 38,Home & Kitchen,Bedding
+1092,Haircare Item 33,Beauty,Haircare
+1093,Kids Item 44,Clothing,Kids
+1094,Cookware Item 4,Home & Kitchen,Cookware
+1095,Appliances Item 5,Home & Kitchen,Appliances
+1096,Tablets Item 25,Electronics,Tablets
+1097,Women's Wear Item 48,Clothing,Women's Wear
+1098,Appliances Item 10,Home & Kitchen,Appliances
+1099,Men's Wear Item 8,Clothing,Men's Wear
+1100,Cookware Item 32,Home & Kitchen,Cookware
+1101,Bedding Item 21,Home & Kitchen,Bedding
+1102,Furniture Item 21,Home & Kitchen,Furniture
+1103,Smartphones Item 19,Electronics,Smartphones
+1104,Headphones Item 41,Electronics,Headphones
+1105,Makeup Item 38,Beauty,Makeup
+1106,Cookware Item 7,Home & Kitchen,Cookware
+1107,Tablets Item 31,Electronics,Tablets
+1108,Non-Fiction Item 13,Books,Non-Fiction
+1109,Cameras Item 20,Electronics,Cameras
+1110,Women's Wear Item 19,Clothing,Women's Wear
+1111,Bedding Item 49,Home & Kitchen,Bedding
+1112,Fragrances Item 27,Beauty,Fragrances
+1113,Cookware Item 50,Home & Kitchen,Cookware
+1114,Non-Fiction Item 1,Books,Non-Fiction
+1115,Fitness Item 36,Sports,Fitness
+1116,Fiction Item 3,Books,Fiction
+1117,Cycling Item 21,Sports,Cycling
+1118,Kids Item 32,Clothing,Kids
+1119,Footwear Item 21,Clothing,Footwear
+1120,Fragrances Item 12,Beauty,Fragrances
+1121,Academic Item 47,Books,Academic
+1122,Decor Item 31,Home & Kitchen,Decor
+1123,Non-Fiction Item 17,Books,Non-Fiction
+1124,Women's Wear Item 17,Clothing,Women's Wear
+1125,Women's Wear Item 31,Clothing,Women's Wear
+1126,Bedding Item 47,Home & Kitchen,Bedding
+1127,Cricket Item 9,Sports,Cricket
+1128,Self-Help Item 36,Books,Self-Help
+1129,Headphones Item 13,Electronics,Headphones
+1130,Fragrances Item 23,Beauty,Fragrances
+1131,Tablets Item 47,Electronics,Tablets
+1132,Comics Item 6,Books,Comics
+1133,Bedding Item 43,Home & Kitchen,Bedding
+1134,Fitness Item 39,Sports,Fitness
+1135,Haircare Item 17,Beauty,Haircare
+1136,Self-Help Item 48,Books,Self-Help
+1137,Fitness Item 47,Sports,Fitness
+1138,Swimming Item 6,Sports,Swimming
+1139,Cookware Item 3,Home & Kitchen,Cookware
+1140,Tools Item 31,Beauty,Tools
+1141,Swimming Item 13,Sports,Swimming
+1142,Kids Item 11,Clothing,Kids
+1143,Accessories Item 44,Clothing,Accessories
+1144,Self-Help Item 46,Books,Self-Help
+1145,Tablets Item 7,Electronics,Tablets
+1146,Decor Item 49,Home & Kitchen,Decor
+1147,Cameras Item 4,Electronics,Cameras
+1148,Laptops Item 5,Electronics,Laptops
+1149,Headphones Item 30,Electronics,Headphones
+1150,Tablets Item 4,Electronics,Tablets
+1151,Cameras Item 28,Electronics,Cameras
+1152,Skincare Item 10,Beauty,Skincare
+1153,Men's Wear Item 30,Clothing,Men's Wear
+1154,Furniture Item 34,Home & Kitchen,Furniture
+1155,Tablets Item 48,Electronics,Tablets
+1156,Cycling Item 48,Sports,Cycling
+1157,Swimming Item 48,Sports,Swimming
+1158,Tools Item 30,Beauty,Tools
+1159,Cameras Item 27,Electronics,Cameras
+1160,Cameras Item 1,Electronics,Cameras
+1161,Bedding Item 39,Home & Kitchen,Bedding
+1162,Accessories Item 36,Clothing,Accessories
+1163,Kids Item 19,Clothing,Kids
+1164,Fitness Item 1,Sports,Fitness
+1165,Footwear Item 3,Clothing,Footwear
+1166,Fiction Item 30,Books,Fiction
+1167,Cricket Item 5,Sports,Cricket
+1168,Bedding Item 35,Home & Kitchen,Bedding
+1169,Self-Help Item 5,Books,Self-Help
+1170,Tools Item 24,Beauty,Tools
+1171,Fiction Item 46,Books,Fiction
+1172,Non-Fiction Item 4,Books,Non-Fiction
+1173,Makeup Item 16,Beauty,Makeup
+1174,Headphones Item 12,Electronics,Headphones
+1175,Appliances Item 30,Home & Kitchen,Appliances
+1176,Makeup Item 35,Beauty,Makeup
+1177,Academic Item 23,Books,Academic
+1178,Footwear Item 38,Clothing,Footwear
+1179,Women's Wear Item 24,Clothing,Women's Wear
+1180,Swimming Item 35,Sports,Swimming
+1181,Football Item 41,Sports,Football
+1182,Appliances Item 40,Home & Kitchen,Appliances
+1183,Comics Item 40,Books,Comics
+1184,Academic Item 30,Books,Academic
+1185,Fragrances Item 10,Beauty,Fragrances
+1186,Cookware Item 39,Home & Kitchen,Cookware
+1187,Swimming Item 38,Sports,Swimming
+1188,Academic Item 3,Books,Academic
+1189,Decor Item 17,Home & Kitchen,Decor
+1190,Academic Item 19,Books,Academic
+1191,Fragrances Item 15,Beauty,Fragrances
+1192,Smartphones Item 48,Electronics,Smartphones
+1193,Laptops Item 33,Electronics,Laptops
+1194,Cycling Item 38,Sports,Cycling
+1195,Headphones Item 40,Electronics,Headphones
+1196,Kids Item 38,Clothing,Kids
+1197,Footwear Item 50,Clothing,Footwear
+1198,Headphones Item 4,Electronics,Headphones
+1199,Fiction Item 2,Books,Fiction
+1200,Cameras Item 46,Electronics,Cameras
+1201,Accessories Item 39,Clothing,Accessories
+1202,Headphones Item 5,Electronics,Headphones
+1203,Academic Item 45,Books,Academic
+1204,Tools Item 50,Beauty,Tools
+1205,Cameras Item 39,Electronics,Cameras
+1206,Fragrances Item 45,Beauty,Fragrances
+1207,Accessories Item 3,Clothing,Accessories
+1208,Decor Item 2,Home & Kitchen,Decor
+1209,Swimming Item 7,Sports,Swimming
+1210,Kids Item 5,Clothing,Kids
+1211,Fragrances Item 32,Beauty,Fragrances
+1212,Haircare Item 46,Beauty,Haircare
+1213,Furniture Item 46,Home & Kitchen,Furniture
+1214,Makeup Item 33,Beauty,Makeup
+1215,Headphones Item 2,Electronics,Headphones
+1216,Makeup Item 46,Beauty,Makeup
+1217,Bedding Item 14,Home & Kitchen,Bedding
+1218,Women's Wear Item 21,Clothing,Women's Wear
+1219,Tablets Item 42,Electronics,Tablets
+1220,Furniture Item 36,Home & Kitchen,Furniture
+1221,Non-Fiction Item 45,Books,Non-Fiction
+1222,Appliances Item 31,Home & Kitchen,Appliances
+1223,Tools Item 7,Beauty,Tools
+1224,Decor Item 30,Home & Kitchen,Decor
+1225,Non-Fiction Item 3,Books,Non-Fiction
+1226,Accessories Item 7,Clothing,Accessories
+1227,Fitness Item 9,Sports,Fitness
+1228,Fragrances Item 28,Beauty,Fragrances
+1229,Fiction Item 13,Books,Fiction
+1230,Bedding Item 28,Home & Kitchen,Bedding
+1231,Fragrances Item 25,Beauty,Fragrances
+1232,Self-Help Item 45,Books,Self-Help
+1233,Appliances Item 36,Home & Kitchen,Appliances
+1234,Skincare Item 21,Beauty,Skincare
+1235,Cycling Item 23,Sports,Cycling
+1236,Fiction Item 31,Books,Fiction
+1237,Fiction Item 32,Books,Fiction
+1238,Cookware Item 24,Home & Kitchen,Cookware
+1239,Cookware Item 38,Home & Kitchen,Cookware
+1240,Cameras Item 30,Electronics,Cameras
+1241,Cookware Item 43,Home & Kitchen,Cookware
+1242,Furniture Item 49,Home & Kitchen,Furniture
+1243,Non-Fiction Item 39,Books,Non-Fiction
+1244,Appliances Item 22,Home & Kitchen,Appliances
+1245,Men's Wear Item 22,Clothing,Men's Wear
+1246,Football Item 33,Sports,Football
+1247,Tools Item 18,Beauty,Tools
+1248,Cameras Item 35,Electronics,Cameras
+1249,Fiction Item 44,Books,Fiction
+1250,Cricket Item 48,Sports,Cricket
+1251,Cycling Item 36,Sports,Cycling
+1252,Cookware Item 8,Home & Kitchen,Cookware
+1253,Cricket Item 25,Sports,Cricket
+1254,Makeup Item 28,Beauty,Makeup
+1255,Academic Item 8,Books,Academic
+1256,Fragrances Item 1,Beauty,Fragrances
+1257,Headphones Item 43,Electronics,Headphones
+1258,Tools Item 11,Beauty,Tools
+1259,Comics Item 32,Books,Comics
+1260,Women's Wear Item 28,Clothing,Women's Wear
+1261,Haircare Item 26,Beauty,Haircare
+1262,Cricket Item 21,Sports,Cricket
+1263,Academic Item 15,Books,Academic
+1264,Fitness Item 26,Sports,Fitness
+1265,Swimming Item 21,Sports,Swimming
+1266,Cycling Item 11,Sports,Cycling
+1267,Women's Wear Item 43,Clothing,Women's Wear
+1268,Self-Help Item 4,Books,Self-Help
+1269,Decor Item 5,Home & Kitchen,Decor
+1270,Smartphones Item 18,Electronics,Smartphones
+1271,Men's Wear Item 47,Clothing,Men's Wear
+1272,Haircare Item 14,Beauty,Haircare
+1273,Decor Item 48,Home & Kitchen,Decor
+1274,Appliances Item 9,Home & Kitchen,Appliances
+1275,Accessories Item 24,Clothing,Accessories
+1276,Men's Wear Item 26,Clothing,Men's Wear
+1277,Bedding Item 7,Home & Kitchen,Bedding
+1278,Makeup Item 50,Beauty,Makeup
+1279,Accessories Item 10,Clothing,Accessories
+1280,Makeup Item 48,Beauty,Makeup
+1281,Cookware Item 16,Home & Kitchen,Cookware
+1282,Furniture Item 47,Home & Kitchen,Furniture
+1283,Football Item 29,Sports,Football
+1284,Makeup Item 20,Beauty,Makeup
+1285,Women's Wear Item 42,Clothing,Women's Wear
+1286,Tools Item 38,Beauty,Tools
+1287,Tools Item 37,Beauty,Tools
+1288,Self-Help Item 47,Books,Self-Help
+1289,Furniture Item 13,Home & Kitchen,Furniture
+1290,Fiction Item 41,Books,Fiction
+1291,Furniture Item 44,Home & Kitchen,Furniture
+1292,Skincare Item 34,Beauty,Skincare
+1293,Comics Item 16,Books,Comics
+1294,Tablets Item 35,Electronics,Tablets
+1295,Furniture Item 10,Home & Kitchen,Furniture
+1296,Haircare Item 8,Beauty,Haircare
+1297,Bedding Item 5,Home & Kitchen,Bedding
+1298,Self-Help Item 20,Books,Self-Help
+1299,Skincare Item 2,Beauty,Skincare
+1300,Tablets Item 21,Electronics,Tablets
+1301,Men's Wear Item 9,Clothing,Men's Wear
+1302,Skincare Item 35,Beauty,Skincare
+1303,Men's Wear Item 35,Clothing,Men's Wear
+1304,Haircare Item 22,Beauty,Haircare
+1305,Skincare Item 15,Beauty,Skincare
+1306,Cycling Item 46,Sports,Cycling
+1307,Skincare Item 25,Beauty,Skincare
+1308,Fiction Item 11,Books,Fiction
+1309,Appliances Item 34,Home & Kitchen,Appliances
+1310,Fitness Item 17,Sports,Fitness
+1311,Self-Help Item 43,Books,Self-Help
+1312,Laptops Item 7,Electronics,Laptops
+1313,Football Item 1,Sports,Football
+1314,Accessories Item 12,Clothing,Accessories
+1315,Tablets Item 5,Electronics,Tablets
+1316,Tablets Item 22,Electronics,Tablets
+1317,Comics Item 27,Books,Comics
+1318,Fitness Item 41,Sports,Fitness
+1319,Non-Fiction Item 12,Books,Non-Fiction
+1320,Fiction Item 17,Books,Fiction
+1321,Decor Item 41,Home & Kitchen,Decor
+1322,Bedding Item 13,Home & Kitchen,Bedding
+1323,Footwear Item 42,Clothing,Footwear
+1324,Comics Item 44,Books,Comics
+1325,Tablets Item 1,Electronics,Tablets
+1326,Makeup Item 31,Beauty,Makeup
+1327,Skincare Item 4,Beauty,Skincare
+1328,Footwear Item 47,Clothing,Footwear
+1329,Non-Fiction Item 43,Books,Non-Fiction
+1330,Comics Item 1,Books,Comics
+1331,Laptops Item 25,Electronics,Laptops
+1332,Non-Fiction Item 9,Books,Non-Fiction
+1333,Skincare Item 8,Beauty,Skincare
+1334,Tools Item 1,Beauty,Tools
+1335,Comics Item 18,Books,Comics
+1336,Fragrances Item 17,Beauty,Fragrances
+1337,Men's Wear Item 28,Clothing,Men's Wear
+1338,Laptops Item 47,Electronics,Laptops
+1339,Decor Item 4,Home & Kitchen,Decor
+1340,Fiction Item 21,Books,Fiction
+1341,Laptops Item 3,Electronics,Laptops
+1342,Football Item 17,Sports,Football
+1343,Furniture Item 15,Home & Kitchen,Furniture
+1344,Academic Item 21,Books,Academic
+1345,Footwear Item 29,Clothing,Footwear
+1346,Kids Item 24,Clothing,Kids
+1347,Smartphones Item 43,Electronics,Smartphones
+1348,Tools Item 39,Beauty,Tools
+1349,Decor Item 18,Home & Kitchen,Decor
+1350,Football Item 15,Sports,Football
+1351,Haircare Item 23,Beauty,Haircare
+1352,Decor Item 3,Home & Kitchen,Decor
+1353,Swimming Item 36,Sports,Swimming
+1354,Skincare Item 18,Beauty,Skincare
+1355,Cycling Item 49,Sports,Cycling
+1356,Skincare Item 7,Beauty,Skincare
+1357,Academic Item 41,Books,Academic
+1358,Appliances Item 24,Home & Kitchen,Appliances
+1359,Women's Wear Item 30,Clothing,Women's Wear
+1360,Academic Item 36,Books,Academic
+1361,Cricket Item 39,Sports,Cricket
+1362,Women's Wear Item 25,Clothing,Women's Wear
+1363,Laptops Item 31,Electronics,Laptops
+1364,Tablets Item 38,Electronics,Tablets
+1365,Non-Fiction Item 31,Books,Non-Fiction
+1366,Furniture Item 40,Home & Kitchen,Furniture
+1367,Skincare Item 31,Beauty,Skincare
+1368,Makeup Item 18,Beauty,Makeup
+1369,Fragrances Item 8,Beauty,Fragrances
+1370,Decor Item 23,Home & Kitchen,Decor
+1371,Self-Help Item 23,Books,Self-Help
+1372,Kids Item 31,Clothing,Kids
+1373,Football Item 25,Sports,Football
+1374,Makeup Item 22,Beauty,Makeup
+1375,Accessories Item 27,Clothing,Accessories
+1376,Makeup Item 13,Beauty,Makeup
+1377,Self-Help Item 7,Books,Self-Help
+1378,Tablets Item 37,Electronics,Tablets
+1379,Tablets Item 10,Electronics,Tablets
+1380,Appliances Item 48,Home & Kitchen,Appliances
+1381,Self-Help Item 10,Books,Self-Help
+1382,Cookware Item 11,Home & Kitchen,Cookware
+1383,Fragrances Item 11,Beauty,Fragrances
+1384,Makeup Item 24,Beauty,Makeup
+1385,Fragrances Item 44,Beauty,Fragrances
+1386,Self-Help Item 8,Books,Self-Help
+1387,Smartphones Item 20,Electronics,Smartphones
+1388,Fiction Item 20,Books,Fiction
+1389,Fiction Item 37,Books,Fiction
+1390,Accessories Item 49,Clothing,Accessories
+1391,Comics Item 17,Books,Comics
+1392,Smartphones Item 32,Electronics,Smartphones
+1393,Football Item 27,Sports,Football
+1394,Kids Item 2,Clothing,Kids
+1395,Non-Fiction Item 7,Books,Non-Fiction
+1396,Fiction Item 23,Books,Fiction
+1397,Cameras Item 43,Electronics,Cameras
+1398,Footwear Item 5,Clothing,Footwear
+1399,Skincare Item 32,Beauty,Skincare
+1400,Fitness Item 35,Sports,Fitness
+1401,Tablets Item 32,Electronics,Tablets
+1402,Haircare Item 40,Beauty,Haircare
+1403,Furniture Item 45,Home & Kitchen,Furniture
+1404,Kids Item 30,Clothing,Kids
+1405,Accessories Item 21,Clothing,Accessories
+1406,Tablets Item 19,Electronics,Tablets
+1407,Academic Item 1,Books,Academic
+1408,Fiction Item 42,Books,Fiction
+1409,Cricket Item 44,Sports,Cricket
+1410,Cameras Item 16,Electronics,Cameras
+1411,Cameras Item 42,Electronics,Cameras
+1412,Women's Wear Item 7,Clothing,Women's Wear
+1413,Academic Item 18,Books,Academic
+1414,Haircare Item 38,Beauty,Haircare
+1415,Comics Item 47,Books,Comics
+1416,Kids Item 35,Clothing,Kids
+1417,Fiction Item 16,Books,Fiction
+1418,Football Item 34,Sports,Football
+1419,Self-Help Item 17,Books,Self-Help
+1420,Laptops Item 19,Electronics,Laptops
+1421,Fitness Item 22,Sports,Fitness
+1422,Bedding Item 31,Home & Kitchen,Bedding
+1423,Fragrances Item 39,Beauty,Fragrances
+1424,Cameras Item 7,Electronics,Cameras
+1425,Smartphones Item 36,Electronics,Smartphones
+1426,Comics Item 8,Books,Comics
+1427,Tools Item 19,Beauty,Tools
+1428,Tools Item 13,Beauty,Tools
+1429,Fitness Item 50,Sports,Fitness
+1430,Footwear Item 12,Clothing,Footwear
+1431,Accessories Item 28,Clothing,Accessories
+1432,Cookware Item 29,Home & Kitchen,Cookware
+1433,Cycling Item 50,Sports,Cycling
+1434,Appliances Item 29,Home & Kitchen,Appliances
+1435,Decor Item 35,Home & Kitchen,Decor
+1436,Bedding Item 41,Home & Kitchen,Bedding
+1437,Cycling Item 32,Sports,Cycling
+1438,Swimming Item 12,Sports,Swimming
+1439,Fragrances Item 16,Beauty,Fragrances
+1440,Self-Help Item 38,Books,Self-Help
+1441,Cricket Item 6,Sports,Cricket
+1442,Appliances Item 23,Home & Kitchen,Appliances
+1443,Cricket Item 43,Sports,Cricket
+1444,Headphones Item 36,Electronics,Headphones
+1445,Kids Item 10,Clothing,Kids
+1446,Tools Item 48,Beauty,Tools
+1447,Footwear Item 28,Clothing,Footwear
+1448,Fiction Item 7,Books,Fiction
+1449,Furniture Item 19,Home & Kitchen,Furniture
+1450,Skincare Item 26,Beauty,Skincare
+1451,Smartphones Item 13,Electronics,Smartphones
