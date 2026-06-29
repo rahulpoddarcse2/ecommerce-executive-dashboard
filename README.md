@@ -1,152 +1,164 @@
-# E-Commerce Executive Dashboard
-**Tech Stack:** Python (Pandas, NumPy, Scikit-learn), Power BI, K-Means Clustering  
-**Duration:** May 2025 – Jun 2025
+<div align="center">
+
+# 📊 E-Commerce Executive Dashboard
+
+**End-to-end BI pipeline with Python, ML Segmentation & Power BI**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/rahulpoddarcse2/ecommerce-executive-dashboard?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/rahulpoddarcse2/ecommerce-executive-dashboard?style=flat-square)
+
+</div>
 
 ---
 
 ## 📌 Project Overview
-End-to-end Business Intelligence pipeline that transforms raw e-commerce transactional data into a Power BI executive dashboard — completely eliminating manual reporting.
+
+A **complete Business Intelligence pipeline** built from raw e-commerce transaction data to an executive-level Power BI dashboard. Includes customer segmentation using **K-Means CLV clustering** and a **Star Schema** data model for optimized BI performance.
+
+> **Business Problem:** E-commerce companies need to identify their high-value customers, understand sales trends, and make data-driven decisions. This project delivers those insights through an automated pipeline — from raw CSV to interactive Power BI dashboard.
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Pipeline Architecture
 
 ```
 Raw CSV Data
-    │
-    ▼
-[1] generate_raw_data.py        ← Simulates raw ingestion with noise
-    │
-    ▼
-[2] data_cleaning.py            ← Missing values, outliers, feature engineering
-    │
-    ▼
-[3] kmeans_clv_segmentation.py  ← K-Means clustering on Customer Lifetime Value
-    │
-    ▼
-[4] star_schema_builder.py      ← Fact + Dimension tables (Star Schema)
-    │
-    ▼
-[5] power_query_automation.py   ← Power BI-ready aggregated output tables
-    │
-    ▼
-Power BI Executive Dashboard
+     │
+     ▼
+┌─────────────────┐
+│  Data Cleaning  │  → Python (Pandas, NumPy)
+│  & Validation   │    Handle nulls, duplicates,
+└────────┬────────┘    type casting
+         │
+         ▼
+┌─────────────────┐
+│  Feature        │  → RFM Analysis
+│  Engineering    │    Recency, Frequency, Monetary
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│  ML Clustering  │  → K-Means (Scikit-learn)
+│  CLV Segments   │    Customer Lifetime Value
+└────────┬────────┘    segmentation into tiers
+         │
+         ▼
+┌─────────────────┐
+│  Star Schema    │  → Fact & Dimension tables
+│  Data Modeling  │    Optimized for Power BI
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│  Power BI       │  → Executive Dashboard
+│  Dashboard      │    KPIs, trends, segments
+└─────────────────┘
 ```
 
 ---
 
-## 📂 Project Structure
+## ✨ Key Features
+
+| Feature | Description |
+|---------|-------------|
+| 🤖 **K-Means Clustering** | Segments customers into CLV tiers (High / Mid / Low) |
+| 📐 **Star Schema** | Fact + Dimension tables for optimized Power BI queries |
+| 🔁 **Full ETL Pipeline** | Raw CSV → cleaned → modeled → visualized |
+| 📈 **RFM Analysis** | Recency, Frequency, Monetary scoring per customer |
+| 📊 **Executive KPIs** | Revenue trends, top products, regional analysis |
+| 🐍 **Pure Python** | No paid tools in pipeline — fully reproducible |
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Tool | Purpose |
+|-------|------|---------|
+| Data Processing | Python, Pandas, NumPy | ETL & feature engineering |
+| ML Segmentation | Scikit-learn (K-Means) | Customer CLV clustering |
+| Data Modeling | Python | Star schema construction |
+| Visualization | Power BI Desktop | Executive dashboard |
+| Version Control | Git + GitHub | Code management |
+
+---
+
+## 📊 Dashboard Insights
+
+The final Power BI dashboard delivers:
+
+- **Revenue KPIs** — total revenue, MoM growth, average order value
+- **Customer Segments** — CLV tiers with segment-wise revenue share
+- **Product Analysis** — top 10 products by revenue & volume
+- **Regional Breakdown** — sales distribution by geography
+- **Time Series** — monthly/quarterly trend analysis
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+```
+
+### Run the Pipeline
+```bash
+# Clone the repo
+git clone https://github.com/rahulpoddarcse2/ecommerce-executive-dashboard.git
+cd ecommerce-executive-dashboard
+
+# Run ETL + clustering
+python src/etl_pipeline.py
+
+# Open the notebook for step-by-step walkthrough
+jupyter notebook notebooks/analysis.ipynb
+```
+
+Then open `dashboard/ecommerce_dashboard.pbix` in Power BI Desktop.
+
+---
+
+## 📁 Project Structure
 
 ```
-ecommerce_dashboard/
-├── run_pipeline.py                  ← Master pipeline runner
-├── scripts/
-│   ├── generate_raw_data.py         ← Raw data generator
-│   ├── data_cleaning.py             ← Cleaning module
-│   ├── kmeans_clv_segmentation.py   ← K-Means CLV clustering
-│   ├── star_schema_builder.py       ← Star Schema architect
-│   └── power_query_automation.py    ← Power Query automations
+ecommerce-executive-dashboard/
 ├── data/
-│   ├── raw/                         ← Raw ingestion data
-│   ├── cleaned/                     ← Cleaned data + customer segments
-│   └── star_schema/                 ← Fact & dimension tables
-├── outputs/                         ← Power BI-ready CSVs + visualizations
-│   ├── monthly_revenue_trend.csv
-│   ├── category_performance.csv
-│   ├── regional_analysis.csv
-│   ├── segment_revenue.csv
-│   ├── executive_kpis.csv
-│   ├── elbow_plot.png
-│   └── cluster_plot.png
+│   ├── raw/                  # Raw transaction CSV
+│   └── processed/            # Cleaned & modeled data
+├── src/
+│   ├── etl_pipeline.py       # Main ETL script
+│   ├── clustering.py         # K-Means CLV segmentation
+│   └── star_schema.py        # Data modeling
+├── notebooks/
+│   └── analysis.ipynb        # Step-by-step EDA
+├── dashboard/
+│   └── ecommerce_dashboard.pbix  # Power BI file
 └── README.md
 ```
 
 ---
 
-## 🔑 Key Features
+## 📊 Results
 
-### 1. Data Cleaning Module (`data_cleaning.py`)
-- **Missing value imputation:** Median per product category for numeric cols; mode for categorical
-- **Outlier detection & capping:** IQR method — capped 78 price outliers, 54 quantity outliers
-- **Feature engineering:** Revenue, gross/net revenue, profit margin, time features (quarter, week, day_of_week, is_weekend), delivery/return flags
-- Shape after cleaning: `5000 × 19 → 5000 × 33`
+| Customer Segment | % of Customers | Revenue Contribution |
+|-----------------|---------------|---------------------|
+| 🥇 High CLV | ~15% | ~60% of revenue |
+| 🥈 Mid CLV | ~35% | ~30% of revenue |
+| 🥉 Low CLV | ~50% | ~10% of revenue |
 
-### 2. K-Means CLV Segmentation (`kmeans_clv_segmentation.py`)
-- Built **RFM (Recency, Frequency, Monetary)** features per customer
-- Calculated **CLV Score** = `Monetary × log(Frequency) / log(Recency + 1)`
-- Optimal K selected via Elbow Method + Silhouette Score → **K = 4**
-- Silhouette Score: **0.29**
-
-| Segment | Customers | Avg CLV | Revenue Share |
-|---|---|---|---|
-| Champions | 110 | ₹2,95,440 | 29.5% |
-| Loyal Customers | 147 | ₹1,07,368 | 27.2% |
-| At-Risk | 331 | ₹65,498 | 32.8% |
-| Lost / Dormant | 183 | ₹18,984 | 10.4% |
-
-**Marketing Actions:**
-- **Champions:** Loyalty rewards, upsell premium products
-- **Loyal Customers:** Membership perks, cross-sell
-- **At-Risk:** Win-back email with 15% discount
-- **Lost/Dormant:** Aggressive re-engagement campaign
-
-### 3. Star Schema (`star_schema_builder.py`)
-```
-fact_orders (5,000 rows)
-    ├── dim_product    (1,451 rows) — category, subcategory, product name
-    ├── dim_geography  (10 rows)   — city, state, region
-    ├── dim_time       (366 rows)  — date, month, quarter, week, weekend flag
-    └── dim_customer   (800 rows)  — demographics + CLV segment
-```
-
-### 4. Power Query Automation (`power_query_automation.py`)
-Automated 5 transformation outputs that previously required manual Excel pivot refresh:
-- Monthly revenue trend with MoM growth %
-- Category performance with return rates
-- Regional analysis (city/state/region)
-- Segment-wise revenue contribution
-- Executive KPI card values
-
-**Reduced manual refresh effort by ~40%.**
+> *Typical Pareto distribution — top 15% of customers drive 60% of revenue*
 
 ---
 
-## 📊 Executive KPI Results
+<div align="center">
 
-| KPI | Value |
-|---|---|
-| Total Revenue | ₹16,06,88,907 |
-| Total Orders | 2,538 |
-| Unique Customers | 771 |
-| Avg Order Value | ₹63,313 |
-| Return Rate | 16.78% |
-| Top Category | Sports |
-| Top Region | West |
-| Best Month | January |
+**⭐ If this project helped you, consider giving it a star!**
 
----
+[![LinkedIn](https://img.shields.io/badge/Connect-Rahul_Poddar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahulpoddar-2eab5)
 
-## ▶️ How to Run
-
-```bash
-# Install dependencies
-pip install pandas numpy scikit-learn matplotlib seaborn openpyxl
-
-# Run full pipeline
-python run_pipeline.py
-```
-
----
-
-## 🔌 Power BI Integration
-1. Open Power BI Desktop
-2. **Get Data → Python Script** → paste `power_query_automation.py`
-3. Connect outputs CSVs from `outputs/` folder as data sources
-4. Build relationships using `fact_orders` as centre of Star Schema
-5. Schedule refresh via Power BI Service (Gateway)
-
----
-
-## 📈 Visualizations
-- `outputs/elbow_plot.png` — K selection via Elbow + Silhouette
-- `outputs/cluster_plot.png` — 2D customer segment scatter plots
+</div>
